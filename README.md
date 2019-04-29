@@ -1,4 +1,4 @@
-# MathQuiz iOS App
+# MathQuiz-iOS
 ## [CMPE 277] - Math Quiz App with basic functionality using Swift
 
 1. Home Screen
