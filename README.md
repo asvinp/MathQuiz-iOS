@@ -1,8 +1,5 @@
 # MathQuiz2 iOS App
-iOS App for a mathematical quiz with basic operations
-
-
-CMPE 277 Assignment - Create a Math Quiz iOS App 
+## [CMPE 277] - Math Quiz App with basic functionality using Swift
 
 1. Home Screen
 a. This screen presents three options to the user to start a quiz for one of the
